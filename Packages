@@ -7,7 +7,7 @@ Maintainer: Julio
 Author: julioverne <julioverne@me.com>
 Section: Tweak
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<<8.3) | Idid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Filename: debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
 Size: 1085390
 MD5sum: 7e923c276b894da812f3e775df72ffb7
 SHA1: 20784e92651d049dbed0f3c4ccd5f6cf0b20bd17
